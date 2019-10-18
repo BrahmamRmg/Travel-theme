@@ -716,7 +716,7 @@ span.glyphicon.glyphicon-send {
   color: #bf9280;
   text-transform: capitalize;
 }
-.main-grid {
+.main-grid { /* changed these */
     text-align: center;
     width:65%;
     height:400px;
